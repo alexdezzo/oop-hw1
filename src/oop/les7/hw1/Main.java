@@ -20,7 +20,7 @@ public class Main {
         System.out.println(hvm.getProducts());
 
         hvm.getProduct("Капучино", 0.3F, 60);
-
+//
         System.out.println(hvm.getProducts());
 
 //        Product bottle1 = new BottleOfWater("Родники", 32, LocalDate.of(2024, 4, 1));
